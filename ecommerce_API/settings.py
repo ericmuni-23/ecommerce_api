@@ -37,9 +37,9 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'ecommerce.apps.EcommerceConfig'
-    "rest_framework",
-    "django_filters",
+    'ecommerce.apps.EcommerceConfig',  # Added missing comma here
+    'rest_framework',                  # Changed to single quotes for consistency
+    'django_filters',                  # Changed to single quotes for consistency
 ]
 
 REST_FRAMEWORK = {

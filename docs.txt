@@ -1,0 +1,6 @@
+CREATE USER 'julius_ecommerce'@'localhost' IDENTIFIED BY 'hGr%38499jsR';
+
+
+Django superadmin
+Username: lyonec
+pw: hGr%38499jsR

@@ -1,5 +1,3 @@
-This is a django project for running opperations of a ecommerce platform
-
 # PROJECT DETAILS
 
 This is a django project for running daily operations of an ecommerce platform

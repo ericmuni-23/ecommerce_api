@@ -16,4 +16,3 @@ class ProductSerializer(serializers.ModelSerializer):
             'category', 'stock_quantity', 'image_url',
             'created_date'
         ]
-        

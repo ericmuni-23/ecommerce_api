@@ -1,0 +1,27 @@
+/* Global styling for the main heading */
+.h1-global {
+  font-size: 2.5rem; /* Large font size for emphasis */
+  color: #4caf50; /* A calm green color to represent trust and reliability */
+  text-align: center; /* Center the text */
+  margin-top: 20px; /* Add space at the top */
+  font-family: "Arial", sans-serif; /* Clean, modern font */
+}
+
+/* Styling for the welcome message */
+.h3-welcome {
+  font-size: 1.8rem; /* Slightly smaller than h1, but still prominent */
+  color: #ff5722; /* Bright orange for an energetic and inviting look */
+  text-align: center; /* Center the text */
+  margin-top: 10px; /* Add space between the h2 and h3 */
+  font-family: "Verdana", sans-serif; /* Slightly different font for variety */
+}
+
+/* Styling for the paragraph below the headings */
+.paragraph_serve {
+  font-size: 1.2rem; /* Smaller, readable font for standard text */
+  color: #333333; /* Dark grey for a professional, clean look */
+  text-align: center; /* Center the text */
+  margin-top: 15px; /* Space between the paragraph and the header */
+  line-height: 1.6; /* Improve readability with line spacing */
+  font-family: "Georgia", serif; /* A serif font for a classic feel */
+}
